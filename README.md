@@ -1,2 +1,8 @@
 # Lifeinvader
-RageMP 1.1 Lifeinvader script with discord webhook
+
+
+# Discord
+https://discord.gg/zF2tYctqkP
+
+# Review
+https://www.youtube.com/watch?v=7pX4tQNKRVY
