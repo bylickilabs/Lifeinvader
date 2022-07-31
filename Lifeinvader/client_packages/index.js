@@ -1,0 +1,1 @@
+require('Lifeinvader/index.js')
